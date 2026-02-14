@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://drive.google.com/file/d/1kVGhNgVacsM3CNPSVnbbrIjMoGHluYMX/view?usp=drive_link" alt="MediTrack Banner" width="100%">
-</p>
+
 
 # MediTrack 💊📅
 
