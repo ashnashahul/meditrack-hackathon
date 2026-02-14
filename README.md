@@ -81,24 +81,29 @@ cd meditrack
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1]("https://drive.google.com/file/d/1t8WO7MD2jq2k1NC4-IVjIsxD3Cz-bHQ8/view?usp=drive_link")
+![Screenshot1]
+"https://drive.google.com/file/d/1t8WO7MD2jq2k1NC4-IVjIsxD3Cz-bHQ8/view?usp=drive_link"
 login page
 
-![Screenshot2]("https://drive.google.com/file/d/1kVGhNgVacsM3CNPSVnbbrIjMoGHluYMX/view?usp=drive_link")
+![Screenshot2]
+"https://drive.google.com/file/d/1kVGhNgVacsM3CNPSVnbbrIjMoGHluYMX/view?usp=drive_link"
 filling columns
 
-![Screenshot3]("https://drive.google.com/file/d/12LGj1l6USwZv2jUg6RZI4wGLxMqomhIW/view?usp=drive_link")
+![Screenshot3]
+"https://drive.google.com/file/d/12LGj1l6USwZv2jUg6RZI4wGLxMqomhIW/view?usp=drive_link"
 checking if the medicine is consumed.
 
 #### Diagrams
 
 **System Architecture:**
 
-![Architecture Diagram]("https://drive.google.com/file/d/1bXRbObc8cAUJeWI7s4ZhxaRABJ0Rm3DS/view?usp=drive_link")
+![Architecture Diagram]
+"https://drive.google.com/file/d/1bXRbObc8cAUJeWI7s4ZhxaRABJ0Rm3DS/view?usp=drive_link"
 
 **Application Workflow:**
 
-![Workflow]("https://drive.google.com/file/d/19ddYEm_ZIV-fi8y0MPooRl3kfrfsM8qO/view?usp=drive_link")
+![Workflow]
+"https://drive.google.com/file/d/19ddYEm_ZIV-fi8y0MPooRl3kfrfsM8qO/view?usp=drive_link"
 
 
 ---
