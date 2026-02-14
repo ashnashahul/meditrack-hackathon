@@ -73,8 +73,7 @@ The app uses browser LocalStorage to store data securely on the user’s device 
 ### Installation
 
 
-git clone https://github.com/ashnashahul/meditrack.git
-cd meditrack
+https://ashnashahul.github.io/meditrack-hackathon/
 
 
 ## Project Documentation
