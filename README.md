@@ -10,7 +10,7 @@ ASHNA SHAHUL
 - ASHNA SHAHUL - College Of Engineering And Management Punnapra
 
 ### Hosted Project Link
-[Add your deployed link here – GitHub Pages / Netlify]
+https://ashnashahul.github.io/meditrack-hackathon/
 
 ---
 
