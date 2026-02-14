@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://drive.google.com/file/d/1kVGhNgVacsM3CNPSVnbbrIjMoGHluYMX/view?usp=drive_link" alt="MediTrack Banner" width="100%">
+</p>
 
 # MediTrack 💊📅
 
@@ -71,7 +74,7 @@ The app uses browser LocalStorage to store data securely on the user’s device 
 
 ### Installation
 
-```bash
+
 git clone https://github.com/ashnashahul/meditrack.git
 cd meditrack
 
