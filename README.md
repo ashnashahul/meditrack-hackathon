@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./img.png" alt="MediTrack Banner" width="100%">
-</p>
 
 # MediTrack 💊📅
 
